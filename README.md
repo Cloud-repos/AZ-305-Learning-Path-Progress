@@ -1,1 +1,11 @@
 # AZ-305-Learning-Path-Progress
+
+Day 1 2021/12/19 Today, I begin to work on the Microsoft Learn Path for the [AZ-305](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
+
+Progress at this starting point from previous work :
+
+Paths:
+
+* 35% of the [Design Identity Governance Monitor Solutions](https://docs.microsoft.com/en-us/learn/paths/design-identity-governance-monitor-solutions/) 
+* 30% of the [Build great solutions with the Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/) 
+
