@@ -9,3 +9,7 @@ Paths:
 * 35% of the [Design Identity Governance Monitor Solutions](https://docs.microsoft.com/en-us/learn/paths/design-identity-governance-monitor-solutions/) 
 * 30% of the [Build great solutions with the Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/) 
 
+Day 2 2021/12/20 
+
+[Design authentication and authorization solutions](https://docs.microsoft.com/en-us/learn/modules/design-authentication-authorization-solutions/)
+
