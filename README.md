@@ -13,3 +13,8 @@ Day 2 2021/12/20
 
 [Design authentication and authorization solutions](https://docs.microsoft.com/en-us/learn/modules/design-authentication-authorization-solutions/)
 
+Day 3 2021/12/21
+
+[Design a solution to log and monitor Azure resources](https://docs.microsoft.com/en-us/learn/modules/design-solution-to-log-monitor-azure-resources/)
+
+
