@@ -17,8 +17,11 @@ Day 3 2021/12/21
 
 [Design a solution to log and monitor Azure resources](https://docs.microsoft.com/en-us/learn/modules/design-solution-to-log-monitor-azure-resources
 
-Day 4 2022/12/23 
+Day 4 2021/12/23 
 
 [Design for high availability](https://docs.microsoft.com/en-us/learn/modules/design-for-high-availability/9-summary-resources) 
+
+Day 5-6 2022/01/03-04
+[AZ-305 Designing Microsoft Azure Infrastructure Solutions Study Cram](https://youtu.be/vq9LuCM4YP4] 
 
 
