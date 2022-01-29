@@ -1,6 +1,7 @@
 # AZ-305-Learning-Path-Progress
 
 Day 1 2021/12/19 Today, I begin to work on the Microsoft Learn Path for the [AZ-305](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
+or [beta](https://docs.microsoft.com/en-us/learn/certifications/exams/az-305) Note: 303 and 304 will retire March 31, 2022.
 
 Progress at this starting point from previous work :
 
@@ -23,5 +24,7 @@ Day 4 2021/12/23
 
 Day 5-6 2022/01/03-04
 [AZ-305 Designing Microsoft Azure Infrastructure Solutions Study Cram](https://youtu.be/vq9LuCM4YP4)
+
+
 
 
