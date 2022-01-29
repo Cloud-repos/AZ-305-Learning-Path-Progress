@@ -34,8 +34,9 @@ Day 7 2022/01/29 Additing 2 additional resources to complete for this study prep
 * [GitHub][(https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions)
 
 YouTube resources:
-    * AZ-305 Designing Microsoft Azure Infrastructure Solutions [Study Cram](https://www.youtube.com/watch?v=vq9LuCM4YP4)
-    * Microsoft Azure Solutions Architect Expert Certification [AZ-305 - Training Class Day 1](https://www.youtube.com/watch?v=YtLyZ32MxRU)
+
+   * AZ-305 Designing Microsoft Azure Infrastructure Solutions [Study Cram](https://www.youtube.com/watch?v=vq9LuCM4YP4)
+   * Microsoft Azure Solutions Architect Expert Certification [AZ-305 - Training Class Day 1](https://www.youtube.com/watch?v=YtLyZ32MxRU)
 
 [Skill up for AZ-305](https://www.microsoft.com/partner-training/we/?n=AZ-305) note: may not be able to attend if availability is limited.
 
