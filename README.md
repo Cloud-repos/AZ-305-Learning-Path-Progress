@@ -25,6 +25,19 @@ Day 4 2021/12/23
 Day 5-6 2022/01/03-04
 [AZ-305 Designing Microsoft Azure Infrastructure Solutions Study Cram](https://youtu.be/vq9LuCM4YP4)
 
+Day 7 2022/01/29 Additing 2 additional resources to complete for this study prep: Manuel's Notion links and Skill Up On-Demand Training videos.
+
+[Manuel](https://dapper-cast-5d0.notion.site/AZ-305-Designing-Microsoft-Azure-Infrastructure-Solutions-beta-ce90928cf99a4d5499ac67bd2f3fc773):
+
+* Microsoft Learn (same link as the one on the top).
+* [AZ-305 Exam Study Guide Azure Solutions Architect Certification](https://www.thomasmaurer.ch/2021/10/az-305-study-guide-azure-solutions-architect/)
+* [GitHub][(https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions)
+
+YouTube resources:
+    * AZ-305 Designing Microsoft Azure Infrastructure Solutions [Study Cram](https://www.youtube.com/watch?v=vq9LuCM4YP4)
+    * Microsoft Azure Solutions Architect Expert Certification [AZ-305 - Training Class Day 1](https://www.youtube.com/watch?v=YtLyZ32MxRU)
+
+[Skill up for AZ-305](https://www.microsoft.com/partner-training/we/?n=AZ-305) note: may not be able to attend if availability is limited.
 
 
 
