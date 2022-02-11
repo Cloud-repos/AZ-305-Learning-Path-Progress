@@ -41,4 +41,9 @@ YouTube resources:
 [Skill up for AZ-305](https://www.microsoft.com/partner-training/we/?n=AZ-305) note: may not be able to attend if availability is limited.
 
 
+Day 8 2022/02/11 Adding additional resources: 
 
+* [Cloud Marathoner's Journey: Study Guide](https://thecloudmarathoner.com/index.php/2022/02/11/study-guide-for-az-305-designing-microsoft-azure-infrastructure-solutions-part-1-design-a-governance-solution/) 
+* [AZ-305 LinkedIn Study guide post from 2/8/2022](https://www.linkedin.com/posts/jasonzandri_exam-az-305-study-guide-activity-6897687813828026368-mqBj)
+* [Trigo](https://www.linkedin.com/posts/tiagocosta_mctbuzz-azure-certification-activity-6896878339949506560-ndjA)
+* [John Savill post about AZ-305 on 2/8/2022](https://www.linkedin.com/posts/john-savill_az-305-designing-microsoft-azure-infrastructure-activity-6896907778246504448-ZVCT)
