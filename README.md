@@ -31,7 +31,7 @@ Day 7 2022/01/29 Additing 2 additional resources to complete for this study prep
 
 * Microsoft Learn (same link as the one on the top).
 * [AZ-305 Exam Study Guide Azure Solutions Architect Certification](https://www.thomasmaurer.ch/2021/10/az-305-study-guide-azure-solutions-architect/)
-* [GitHub][(https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions)
+* [GitHub](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions)
 
 YouTube resources:
 
