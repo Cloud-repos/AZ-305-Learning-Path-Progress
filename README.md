@@ -49,3 +49,5 @@ Day 8 2022/02/11 Adding additional resources:
 * [John Savill post about AZ-305 on 2/8/2022](https://www.linkedin.com/posts/john-savill_az-305-designing-microsoft-azure-infrastructure-activity-6896907778246504448-ZVCT)
 
 Day 9 2022/03/30 Adding resouce: [Cloudmarathoner Study guide](https://thecloudmarathoner.com/index.php/2022/02/11/study-guide-for-az-305-designing-microsoft-azure-infrastructure-solutions-part-1-design-a-governance-solution/)
+
+Day 10 2022/05/24 Adding resource from [Our Cloud Network](https://ourcloudnetwork.com/az305-exam/)
